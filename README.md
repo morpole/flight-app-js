@@ -82,6 +82,7 @@ npm install axios dotenv sqlite3 chartjs-node-canvas
 
 # Example Chart
 
+<img src="flight_chart1.png" width="400" height="300">
 
 # Notes
 
