@@ -36,7 +36,7 @@ Before running this project, ensure you have the following installed:
 
    ```bash
 
-   git clone https://github.com/morpole/dublin-airport-arrivals.git
+   git clone https://github.com/morpole/flight-app-js.git
 
    cd dublin-airport-arrivals
    ```
@@ -54,7 +54,7 @@ AVIATIONSTACK_API_KEY=your_api_key_here
 
 Run the script to fetch flight data, store it, and generate a chart:
 ```bash
-node index.js
+node flight.js
 ```
 
  The script will:
